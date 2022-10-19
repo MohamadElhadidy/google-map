@@ -1,8 +1,8 @@
 {
-  "source": "./index.html",
+  "source": "index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.7.0",
